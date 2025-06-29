@@ -2,9 +2,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levyt78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&custom_title=(%E1%93%80%E2%80%B8%E1%93%82)" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<img align="left" height="200" src="https://media1.tenor.com/m/jVQe9M_T3VAAAAAd/sengoku-nadeko-bakemonogatari.gif"  />
 
 ###
 
@@ -20,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angularjs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levyt78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&custom_title=(%E1%93%80%E2%80%B8%E1%93%82)" height="150" alt="languages graph"  />
 </div>
 
 ###
