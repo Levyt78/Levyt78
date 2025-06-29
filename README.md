@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Languages that i'm learning/studyng rn</p>
+<p align="left">Languages that i'm learning/studyng rn</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levyt78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&custom_title=(%E1%93%80%E2%80%B8%E1%93%82)" height="150" alt="languages graph"  />
 </div>
 
@@ -34,6 +34,6 @@
 
 ###
 
-<h2 align="center">Top albuns fave</h2>
+<h2 align="left">Top albuns fave</h2>
 
 ###
