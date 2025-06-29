@@ -22,18 +22,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levyt78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&custom_title=(%E1%93%80%E2%80%B8%E1%93%82)" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" height="200" src="https://media1.tenor.com/m/jVQe9M_T3VAAAAAd/sengoku-nadeko-bakemonogatari.gif"  />
 
 ###
 
-<h2 align="left">Top albuns fave</h2>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levyt78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&custom_title=(%E1%93%80%E2%80%B8%E1%93%82)" height="150" alt="languages graph"  />
+</div>
 
 ###
+
+<h3 align="left">Top fave albuns</h3>
+
+###
+
+![imgChart](./scrImg/char2.png)
