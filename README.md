@@ -8,10 +8,6 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="10183798694199156048" data-share-method="host" data-aspect-ratio="1.16355" data-width="100%"><a href="https://tenor.com/view/sengoku-nadeko-bakemonogatari-monogatari-spin-anime-gif-10183798694199156048">Sengoku Nadeko Bakemonogatari GIF</a>from <a href="https://tenor.com/search/sengoku+nadeko-gifs">Sengoku Nadeko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
   <img width="12" />
