@@ -2,6 +2,10 @@
 
 ##
 
+<span style='color: black;'>long</span> <span style='color: grey;'>long</span><span style='color: green;'>long</span><span style='color: grey;'>long</span><span style='color: red;'>long</span><span style='color: black;'>long</span>     
+
+##
+
 <img align="right" height="200" src="https://media1.tenor.com/m/xh8I7HdIruMAAAAC/miyazawa-girl.gif" />
 
 ###
