@@ -2,9 +2,7 @@
 
 ##
 
-<img align="right" height="200" src="https://media1.tenor.com/m/xh8I7HdIruMAAAAC/miyazawa-girl.gif"  />
-
-###
+<img align="right" height="200" src="https://media1.tenor.com/m/xh8I7HdIruMAAAAC/miyazawa-girl.gif" />
 
 ###
 
